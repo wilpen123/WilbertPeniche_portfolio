@@ -1,8 +1,5 @@
 # Jr. Data Scientist
 
-**Location**: Monterrey, Nuevo Leon, Mexico  
-[LinkedIn]([Your_LinkedIn_Profile_URL](https://www.linkedin.com/in/wilbert-peniche-19952b16a/)) |  **Email**: wilbertpeniche.wp@gmail.com | **Mobile**: +528661724465
-
 ---
 
 ## Projects
