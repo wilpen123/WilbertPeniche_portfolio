@@ -35,14 +35,6 @@
 
 ---
 
-## Profile
-
-JR. DATA SCIENTIST
-
-Student of economics and computer system engineering with a robust foundation in corporate finance, economic engineering, computer programming, and statistics. Proficient in database management, adept at deriving key insights, and deploying machine learning models. Skilled in collaboration and eager to gain hands-on experience in the Data Science industry.
-
----
-
 ## Technical Skills
 
 - **Languages**: Python, SQL, Java, HTML, CSS
