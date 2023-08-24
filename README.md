@@ -61,8 +61,8 @@
 ## Additional Information
 
 - **Languages**:
-- ***English*** (Fluent)
-- ***Spanish*** (Native)
+- *English* (Fluent)
+- *Spanish* (Native)
 
 
 ---
