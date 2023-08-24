@@ -60,7 +60,9 @@
 
 ## Additional Information
 
-- **Languages**: ["English (Fluent), Spanish (Native)"]
+- **Languages**:
+- ***English*** (Fluent)
+- ***Spanish*** (Native)
 
 
 ---
